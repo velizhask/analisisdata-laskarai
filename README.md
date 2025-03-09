@@ -1,4 +1,3 @@
-# analisisdata-laskarai
 # Bike Sharing Dashboard
 
 ## Setup Environment - Anaconda
